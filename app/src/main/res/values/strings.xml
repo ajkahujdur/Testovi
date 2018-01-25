@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">Testovi</string>
+    <string name="pitanja_teorija">Teorija</string>
+    <string name="pitanja_znakovi">Znakovi</string>
+    <string name="pitanja_raskrsnice">Raskrsnice</string>
+
+
+    <string name="pitanje1">Kako se naziva uzdužni dio kolovoza namijenjen za saobraćaj vozila u jednom smjeru?</string>
+    <string name="pitanje1_odgovor1">kolovozna traka</string>
+    <string name="pitanje1_odgovor2">kolovoz</string>
+    <string name="pitanje1_odgovor3">saobraćajna traka</string>
+
+    <string name="pitanje2">Preglednost podrazumijeva:</string>
+    <string name="pitanje2_odgovor1">mjesto na raskrsnici sa kojeg vozač vidi ulijevo najmanje 25m</string>
+    <string name="pitanje2_odgovor2">mjesto na raskrsnici sa kojeg vozač vidi ulijevo i udesno najmanje 25m</string>
+    <string name="pitanje2_odgovor3">prostor koji učesnik u saobraćaju može da vidi sa mjesta na kojem se nalazi</string>
+
+    <string name="pitanje3">Stiker-naljepnica je:</string>
+    <string name="pitanje3_odgovor1">dokaz o izvršenoj registraciji vozila</string>
+    <string name="pitanje3_odgovor2">dokaz o izvršenom tehničkom pregledu</string>
+    <string name="pitanje3_odgovor3">dokaz o plaćenoj putarini</string>
+
+    <string name="pitanje4">Iznad kolovoza javnog puta mora da postoji slobodan prostor u visini od najmanje:</string>
+    <string name="pitanje4_odgovor1">6m od najviše tačke kolovoza</string>
+    <string name="pitanje4_odgovor2">4,5m od najviše tačke kolovoza</string>
+    <string name="pitanje4_odgovor3">4m od najviše tačke kolovoza</string>
+
+    <string name="pitanje5">Kako djeca najčešće reauguju u saobraćaju?</string>
+    <string name="pitanje5_odgovor1">razumno i staloženo</string>
+    <string name="pitanje5_odgovor2">spontano i nepredvidivo</string>
+    <string name="pitanje5_odgovor3">u skladu sa propisima</string>
+
+    <string name="pitanje6">Koliko kolovoznih traka ima put sa jednosmjernim saobraćajem?</string>
+    <string name="pitanje6_odgovor1">dvije kolovozne trake</string>
+    <string name="pitanje6_odgovor2">više od dvije kolovozne trake</string>
+    <string name="pitanje6_odgovor3">jednu kolovoznu traku</string>
+
+    <string name="pitanje7">Da li je vozaču zabranjeno da pretiče vozilo koje se približava obilježenom pješačkom prelazu,
+        ili koje prelazi pješački prelaz, ili koje je stalo radi propuštanja pješaka na tom prelazu?</string>
+    <string name="pitanje7_odgovor1">nije, ukoliko ga pješaci propuštaju</string>
+    <string name="pitanje7_odgovor2">nije, ukoliko postoje dvije saobraćajne trake u jednom smjeru</string>
+    <string name="pitanje7_odgovor3">zabranjeno je</string>
+
+    <string name="pitanje8">Kako ćete postupiti sa vozilom u saobraćaju u slučaju da na vozilu otkaže sistem za radne kočnice?</string>
+    <string name="pitanje8_odgovor1">upravljate vozilom do prvog najbližeg servisa</string>
+    <string name="pitanje8_odgovor2">zaustavljate vozilo uz korištenje pomoćne kočnice i isključujete vozilo iz saobraćaja</string>
+    <string name="pitanje8_odgovor3">nastavljate upravljati vozilom uz korištenje pomoćne kočnice</string>
+
+    <string name="pitanje9">U kojoj situaciji za vrijeme upravljanja vozilom vozač nije dužan da postupi na način određen saobraćajnim znakovima?</string>
+    <string name="pitanje9_odgovor1">ukoliko postupa po naredbi ovlaštenog lica</string>
+    <string name="pitanje9_odgovor2">ako znak nije blagovremeno uočio</string>
+    <string name="pitanje9_odgovor3">ako upravlja putničkim vozilom</string>
+
+    <string name="pitanje10">Dio površine puta namijenjen prvenstveno za saobraćaj vozila, naziva se:</string>
+    <string name="pitanje10_odgovor1">kolovozna traka</string>
+    <string name="pitanje10_odgovor2">kolovoz</string>
+    <string name="pitanje10_odgovor3">saobraćajna traka</string>
+
+
+    <string name="pitanjez1">Koje značenje ima ovaj saobraćajni znak?</string>
+    <string name="pitanjez1_odgovor1">vremensko ograničenje parkiranja</string>
+    <string name="pitanjez1_odgovor2">parkiralište</string>
+    <string name="pitanjez1_odgovor3">zona u kojoj je ograničeno trajanje parkiranja</string>
+
+    <string name="pitanjez2">Koje značenje ima ovaj saobraćajni znak?</string>
+    <string name="pitanjez2_odgovor1">mjesto gdje se nailazi na blagu krivinu</string>
+    <string name="pitanjez2_odgovor2">mjesto gdje se izvode radovi na putu</string>
+    <string name="pitanjez2_odgovor3">mjesto gdje se nailazi na oštru krivinu</string>
+
+    <string name="pitanjez3">Tačan naziv saobraćajnog znaka je:</string>
+    <string name="pitanjez3_odgovor1">saobraćaj u oba smjera</string>
+    <string name="pitanjez3_odgovor2">dozvoljeni smjer</string>
+    <string name="pitanjez3_odgovor3">prvenstvo prolaza za vozila iz suprotnog smjera</string>
+
+    <string name="pitanjez4">Koje značenje ima ovaj saobraćajni znak?</string>
+    <string name="pitanjez4_odgovor1">zabrana kretanja za bicikliste i pješake</string>
+    <string name="pitanjez4_odgovor2">staza za kretanje pješaka, bicikla i motocikla</string>
+    <string name="pitanjez4_odgovor3">razdvojena staza za pješake i bicikliste, kojom je zabranjeno kretanje drugih učesnika u saobraćaju</string>
+
+    <string name="pitanjez5">Koje značenje ima ovaj saobraćajni znak?</string>
+    <string name="pitanjez5_odgovor1">prvenstvo prolaza u svim smjerovima</string>
+    <string name="pitanjez5_odgovor2">položaj puta sa pravom prvenstva prolaza</string>
+    <string name="pitanjez5_odgovor3">obavezno skretanje ulijevo</string>
+
+    <string name="pitanjez6">Kako ćete postupiti nailaskom na ovaj saobraćajni znak?</string>
+    <string name="pitanjez6_odgovor1">nastaviti kretanje vozilom jer imam prednost u odnosu na vozila iz suprotnog smjera</string>
+    <string name="pitanjez6_odgovor2">nastaviti kretanje vozilom sa naročitom opreznošću u odnosu na vozila iz suprotnog smjera</string>
+    <string name="pitanjez6_odgovor3">ne nastaviti kretanje vozilom, jer je zabranjen saobraćaj vozilima iz smjera prema kome je okrenut znak</string>
+
+    <string name="pitanjez7">Na koju opasnost upozorava ovaj saobraćajni znak?</string>
+    <string name="pitanjez7_odgovor1">na blizinu tramvajske pruge</string>
+    <string name="pitanjez7_odgovor2">na blizinu prelaza puta preko željezničke pruge u nivou koja je obezbijeđena branicima ili polubranicima</string>
+    <string name="pitanjez7_odgovor3">na blizinu prelaza puta preko željezničke pruge u nivou koja nije obezbijeđena branicima ili polubranicima</string>
+
+    <string name="pitanjez8">Šta zabranjuje ovaj saobraćajni znak?</string>
+    <string name="pitanjez8_odgovor1">parkiranje vozila</string>
+    <string name="pitanjez8_odgovor2">zaustavljanje i parkiranje vozila</string>
+    <string name="pitanjez8_odgovor3">samo zaustavljenje vozila</string>
+
+    <string name="pitanjez9">Koje značenje ima ovaj saobraćajni znak?</string>
+    <string name="pitanjez9_odgovor1">brzina koja je preporučena</string>
+    <string name="pitanjez9_odgovor2">ograničenje brzine</string>
+    <string name="pitanjez9_odgovor3">najmanja dopuštena brzina kretanja vozila</string>
+
+    <string name="pitanjez10">Koje značenje ima ovaj saobraćajni znak?</string>
+    <string name="pitanjez10_odgovor1">put sa jednosmjernim saobraćajem</string>
+    <string name="pitanjez10_odgovor2">obavezno obilaženje sa desne strane</string>
+    <string name="pitanjez10_odgovor3">dozvoljeni smjer</string>
+
+
+    <string name="pitanje_raskrsnice">Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?</string>
+    <string name="r1_odgovor1">3 - 1 - 2</string>
+    <string name="r1_odgovor2">2 - 1 - 3</string>
+    <string name="r1_odgovor3">3 - 2 - 1</string>
+
+    <string name="r2_odgovor1">1 - 2 - 3 - 4</string>
+    <string name="r2_odgovor2">2 - 3 - 4 - 1</string>
+    <string name="r2_odgovor3">4 - 1 - 2 - 3</string>
+
+    <string name="r3_odgovor1">1 - 2 - 3</string>
+    <string name="r3_odgovor2">3 - 1 - 2</string>
+    <string name="r3_odgovor3">2 - 1 - 3</string>
+
+    <string name="r4_odgovor1">3 - 2 - 1</string>
+    <string name="r4_odgovor2">2 - 1 - 3</string>
+    <string name="r4_odgovor3">1 - 2 - 3</string>
+
+    <string name="r5_odgovor1">1 - 3 - 2</string>
+    <string name="r5_odgovor2">3 - 2 - 1</string>
+    <string name="r5_odgovor3">2 - 3 - 1</string>
+
+    <string name="r6_odgovor1">3 - 1 - 2</string>
+    <string name="r6_odgovor2">2 - 3 - 1</string>
+    <string name="r6_odgovor3">3 - 2 - 1</string>
+
+    <string name="r7_odgovor1">3 - 2 - 1</string>
+    <string name="r7_odgovor2">2 - 1 - 3</string>
+    <string name="r7_odgovor3">1 - 2 - 3</string>
+
+    <string name="r8_odgovor1">2 - 3 - 1</string>
+    <string name="r8_odgovor2">1 - 2 - 3</string>
+    <string name="r8_odgovor3">3 - 2 - 1</string>
+
+    <string name="r9_odgovor1">1 - 2 - 3</string>
+    <string name="r9_odgovor2">1 - 3 - 2</string>
+    <string name="r9_odgovor3">2 - 3 - 1</string>
+
+    <string name="r10_odgovor1">3 - 1 - 2</string>
+    <string name="r10_odgovor2">1 - 2 - 3</string>
+    <string name="r10_odgovor3">3 - 2 - 1</string>
+
+</resources>
